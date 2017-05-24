@@ -1,0 +1,13 @@
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Properties.Resources.resources
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.GenerateResource.Cache
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.LoginForm.resources
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.MainMenu.resources
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.EmpDetails.resources
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.GeneratePayslip.resources
+c:\users\dharani\documents\visual studio 2017\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Salary.resources
